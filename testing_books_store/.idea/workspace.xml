@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac45058e-8c42-43e5-aa53-854a9defac92" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/login.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/placing_orders.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/signup.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/common_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/login_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/placing_order_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/signup_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/support/pages/home_page.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/support/pages/login_page.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/support/pages/signup_page.rb" />
+    </list>
+    <ignored path="testing_books_store.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/testing_books_store@placing_orders_feature.coverage" NAME="placing_orders.feature Coverage Results" MODIFIED="1453652994364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@Run_all.coverage" NAME="Run_all Coverage Results" MODIFIED="1453653061149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@test_test.coverage" NAME="test_test Coverage Results" MODIFIED="1453565719423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@login_feature.coverage" NAME="login.feature Coverage Results" MODIFIED="1453626443162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@login_feature__1_.coverage" NAME="login.feature (1) Coverage Results" MODIFIED="1453651298788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@final_feature.coverage" NAME="final.feature Coverage Results" MODIFIED="1453627245804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@Scenario__Placing_an_order_with_2_books.coverage" NAME="Scenario: Placing an order with 2 books Coverage Results" MODIFIED="1453623986983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="testing_books_store" />
+    <SUITE FILE_PATH="coverage/testing_books_store@signup_feature.coverage" NAME="signup.feature Coverage Results" MODIFIED="1453651334561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="testing_books_store" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testing_books_store" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="home_page.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup_page.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/signup_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="placing_orders.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/placing_orders.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/common_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/login_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/login_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/signup_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="placing_order_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/placing_order_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping_cart_page.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6038136">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/features/support/pages/registration_page.rb" />
+        <option value="$PROJECT_DIR$/features/registration.feature" />
+        <option value="$PROJECT_DIR$/features/test_test.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/features/step_definitions/basic_steps.rb" />
+        <option value="$PROJECT_DIR$/features/final.feature" />
+        <option value="$PROJECT_DIR$/features/login.feature" />
+        <option value="$PROJECT_DIR$/features/signup.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/common_steps.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/common_page.rb" />
+        <option value="$PROJECT_DIR$/features/placing_orders.feature" />
+        <option value="$PROJECT_DIR$/features/support/pages/home_page.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/signup_page.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/signup_steps.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/placing_order_steps.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/login_steps.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/login_page.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="39" />
+    <option name="width" value="1408" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing_books_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Cucumber.Run_all">
+    <configuration default="false" name="login.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="testing_books_store" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/login.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="placing_orders.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="testing_books_store" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/placing_orders.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="final.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="testing_books_store" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/final.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="login.feature (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="testing_books_store" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/login.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="signup.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="testing_books_store" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/signup.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run_all" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="testing_books_store" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Cucumber.Run_all" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.login.feature" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.placing_orders.feature" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.final.feature" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.login.feature (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.signup.feature" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.placing_orders.feature" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.signup.feature" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.login.feature (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.final.feature" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.login.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac45058e-8c42-43e5-aa53-854a9defac92" name="Default" comment="" />
+      <created>1453552959156</created>
+      <option name="number" value="Default" />
+      <updated>1453552959156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Run_all - 2016.01.24 at 23h 14m 50s.xml">
+      <configuration name="Run_all" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_all - 2016.01.24 at 23h 16m 30s.xml">
+      <configuration name="Run_all" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_all - 2016.01.24 at 23h 20m 58s.xml">
+      <configuration name="Run_all" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_all - 2016.01.24 at 23h 32m 49s.xml">
+      <configuration name="Run_all" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="placing_orders_feature - 2016.01.24 at 23h 08m 22s.xml">
+      <configuration name="placing_orders.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="placing_orders_feature - 2016.01.24 at 23h 22m 26s.xml">
+      <configuration name="placing_orders.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="placing_orders_feature - 2016.01.24 at 23h 24m 32s.xml">
+      <configuration name="placing_orders.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="placing_orders_feature - 2016.01.24 at 23h 26m 22s.xml">
+      <configuration name="placing_orders.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="placing_orders_feature - 2016.01.24 at 23h 28m 25s.xml">
+      <configuration name="placing_orders.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="placing_orders_feature - 2016.01.24 at 23h 30m 47s.xml">
+      <configuration name="placing_orders.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="16" y="39" width="1408" height="771" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31318682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://GemDependency/#testing_books_store">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>GemDependency</ID>
+          <OriginalElement>#testing_books_store</OriginalElement>
+          <nodes>
+            <node x="" y="">rspec-support</node>
+            <node x="" y="">page_navigation</node>
+            <node x="" y="">#testing_books_store</node>
+            <node x="" y="">childprocess</node>
+            <node x="" y="">rspec-core</node>
+            <node x="" y="">rspec</node>
+            <node x="" y="">rspec-mocks</node>
+            <node x="" y="">diff-lcs</node>
+            <node x="" y="">rake</node>
+            <node x="" y="">rspec-expectations</node>
+            <node x="" y="">watir-webdriver</node>
+            <node x="" y="">selenium-webdriver</node>
+            <node x="" y="">ffi</node>
+            <node x="" y="">websocket</node>
+            <node x="" y="">rubyzip</node>
+            <node x="" y="">cucumber-wire</node>
+            <node x="" y="">cucumber-core</node>
+            <node x="" y="">i18n</node>
+            <node x="" y="">yml_reader</node>
+            <node x="" y="">data_magic</node>
+            <node x="" y="">page-object</node>
+            <node x="" y="">cucumber</node>
+            <node x="" y="">faker</node>
+            <node x="" y="">multi_json</node>
+            <node x="" y="">gherkin</node>
+            <node x="" y="">multi_test</node>
+            <node x="" y="">builder</node>
+            <node x="" y="">bundler</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6482504604051565" x="828.5" y="-473.9105113636364" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/page-object-1.1.1/lib/page-object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326087">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/rspec-mocks-3.4.1/lib/rspec/mocks/message_expectation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33262712">
+          <caret line="242" column="10" selection-start-line="242" selection-start-column="10" selection-end-line="242" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/uri/generic.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33262712">
+          <caret line="499" column="8" selection-start-line="499" selection-start-column="8" selection-end-line="499" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/visitors/visitor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4131356">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/signup.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/page-object-1.1.1/lib/page-object/accessors.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="630" column="0" selection-start-line="630" selection-start-column="0" selection-end-line="630" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/placing_orders.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/common_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/login_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/placing_order_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/signup_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/login_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/signup_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6038136">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
